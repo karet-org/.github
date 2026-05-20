@@ -2,4 +2,4 @@
   <img src="banner.svg" alt="Karet - Self-hostable analytics platform" width="100%">
 </p>
 
-Ingest CSVs, build data pipelines, and visualize everything in configurable dashboards.
+[Karet is the self-hosted analytics platform](https://karet.joeyshi.xyz) that allows you to build data pipelines and visualize everything in configurable dashboards.
