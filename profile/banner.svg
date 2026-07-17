@@ -1,34 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF8E1"/>
-      <stop offset="100%" stop-color="#FFF3E0"/>
-    </linearGradient>
-    <linearGradient id="gold-body" x1="32" y1="18" x2="32" y2="58" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFD54F"/>
-      <stop offset="50%" stop-color="#FFB300"/>
-      <stop offset="100%" stop-color="#E65100"/>
-    </linearGradient>
-    <linearGradient id="gold-shine" x1="28" y1="20" x2="34" y2="50" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFF8E1" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#FFF8E1" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="gold-leaf" x1="32" y1="2" x2="32" y2="22" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#81C784"/>
-      <stop offset="100%" stop-color="#2E7D32"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="180" fill="url(#bg)"/>
-  <g transform="translate(370,10) scale(2.5)">
-    <path d="M28 18 C26 19, 23 24, 22 30 Q21 44, 32 58 Q43 44, 42 30 C41 24, 38 19, 36 18 Z" fill="url(#gold-body)"/>
-    <path d="M29 22 C28 28, 27 36, 30 48 C31 36, 30 28, 30 22 Z" fill="url(#gold-shine)"/>
-    <path d="M25 30 Q32 29, 39 30" stroke="#E65100" stroke-width="1.1" fill="none" opacity="0.4"/>
-    <path d="M26 37 Q32 36, 38 37" stroke="#E65100" stroke-width="1" fill="none" opacity="0.3"/>
-    <path d="M28 44 Q32 43, 36 44" stroke="#E65100" stroke-width="0.9" fill="none" opacity="0.25"/>
-    <path d="M30 19 C26 14, 16 8, 8 3 C10 6, 18 12, 24 16 C18 10, 12 7, 8 6 C14 10, 24 16, 29 19 Z" fill="url(#gold-leaf)"/>
-    <path d="M29 19 C28 10, 29 4, 32 0 C35 4, 36 10, 35 19 Z" fill="url(#gold-leaf)"/>
-    <path d="M34 19 C38 14, 48 8, 56 3 C54 6, 46 12, 40 16 C46 10, 52 7, 56 6 C50 10, 40 16, 35 19 Z" fill="url(#gold-leaf)"/>
-  </g>
-  <text x="640" y="95" text-anchor="middle" font-family="system-ui,sans-serif" font-size="52" font-weight="700" fill="#1a1a1a">Karet</text>
-  <text x="640" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#6b7280">Self-hostable analytics platform</text>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200mm"
+   height="180mm"
+   viewBox="0 0 1200 180"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   sodipodi:docname="karet_logo.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:export-filename="karet_logo.png"
+   inkscape:export-xdpi="198.4375"
+   inkscape:export-ydpi="198.4375"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.20755149"
+     inkscape:cx="2107.9107"
+     inkscape:cy="679.34951"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     id="layer1"><rect
+       style="fill:#fbfaf6;fill-opacity:1;stroke-width:0.0999991"
+       id="rect1"
+       width="1200"
+       height="180"
+       x="0"
+       y="0"
+       ry="0"
+       rx="0" /><path
+       style="opacity:1;fill:#c1803c;fill-opacity:1;stroke-width:0.0999993"
+       d="m 357.91726,56.230122 5.95652,26.400023 63.47499,0.414426 5.71989,-26.763147 z"
+       id="path1" /><path
+       style="opacity:1;fill:#bababa;fill-opacity:1;stroke-width:0.0999993"
+       d="m 364.64728,89.287086 6.59895,29.355454 47.82745,0.31226 7.27879,-29.550834 z"
+       id="path2" /><path
+       style="opacity:1;fill:#c9a53e;fill-opacity:1;stroke-width:0.0999993"
+       d="m 372.2996,125.16883 19.77548,42.40221 5.45519,0.0356 20.32932,-42.42599 z"
+       id="path3" /><path
+       style="opacity:1;fill:#156d3e;fill-opacity:1;stroke-width:0.0999993"
+       d="m 391.36715,51.130717 0.24417,-37.397665 9.17105,-4.565474 -0.27611,42.287114 z"
+       id="path4" /><path
+       style="opacity:1;fill:#156d3e;fill-opacity:1;stroke-width:0.0999993"
+       d="m 388.27066,44.767164 -12.3988,-2.591857 -7.99934,-7.717096 -1.55609,-12.432524 11.99124,2.324892 8.13233,8.246572 z"
+       id="path5" /><path
+       style="opacity:1;fill:#156d3e;fill-opacity:1;stroke-width:0.0999993"
+       d="m 403.69766,43.282054 0.22704,-13.874571 10.15969,-9.712979 13.24758,-2.027953 -1.58702,13.204931 -9.61313,9.584385 z"
+       id="path6" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:128.471px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="474.81277"
+       y="143.17883"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:128.471px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-width:0.1"
+         x="474.81277"
+         y="143.17883">Karet</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'.CJK Symbols Fallback HK';-inkscape-font-specification:'.CJK Symbols Fallback HK';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.1"
+       x="162.60098"
+       y="-318.89963"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.1"
+         x="162.60098"
+         y="-318.89963">s</tspan></text></g></svg>
